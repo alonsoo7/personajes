@@ -4,7 +4,7 @@
   <a href="sprites/gen5_rl.svg"><img src="sprites/gen5_rl.svg" alt="Mitcha, periquito verde" width="105"></a>
   <a href="sprites/gen3_gary.svg"><img src="sprites/gen3_gary.svg" alt="Gary, perro negro y blanco" width="105"></a>
 </p>
-<p align="center"><strong>27 personajes · 54 sprites vectoriales</strong><br>Dibujados por Alonso Toro para el Dilema del Prisionero Iterado.</p>
+<p align="center"><strong>27 personajes · 54 sprites vectoriales</strong><br>Hechos para el proyecto del Dilema del Prisionero Iterado.</p>
 <p align="center"><a href="#el-elenco">El elenco</a> · <a href="#usar-los-sprites">Usar los sprites</a> · <a href="https://alonsuh.duckdns.org/ipd/">Ver el proyecto original</a></p>
 
 Rulito es un canario Fiorino, Mitcha un periquito verde y Gary un perro negro y blanco. En el IPD, los personajes ayudan a reconocer qué estrategia está jugando en cada turno.
