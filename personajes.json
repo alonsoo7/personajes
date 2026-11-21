@@ -1,0 +1,191 @@
+[
+  {
+    "id": "human",
+    "nombre": "Jugador humano",
+    "descripcion": "Jugador Humano",
+    "cuerpo": "sprites/human.svg",
+    "retrato": "sprites/human-retrato.svg"
+  },
+  {
+    "id": "axl_TitForTat",
+    "nombre": "Tit For Tat",
+    "descripcion": "Nice · Recíproca",
+    "cuerpo": "sprites/axl_TitForTat.svg",
+    "retrato": "sprites/axl_TitForTat-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByTidemanAndChieruzzi",
+    "nombre": "First By Tideman And Chieruzzi",
+    "descripcion": "Nice · Reconciliadora",
+    "cuerpo": "sprites/axl_FirstByTidemanAndChieruzzi.svg",
+    "retrato": "sprites/axl_FirstByTidemanAndChieruzzi-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByNydegger",
+    "nombre": "First By Nydegger",
+    "descripcion": "Nice · Memoria-3",
+    "cuerpo": "sprites/axl_FirstByNydegger.svg",
+    "retrato": "sprites/axl_FirstByNydegger-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByGrofman",
+    "nombre": "First By Grofman",
+    "descripcion": "Nice · Tolerante",
+    "cuerpo": "sprites/axl_FirstByGrofman.svg",
+    "retrato": "sprites/axl_FirstByGrofman-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByShubik",
+    "nombre": "First By Shubik",
+    "descripcion": "Nice · Escalonada",
+    "cuerpo": "sprites/axl_FirstByShubik.svg",
+    "retrato": "sprites/axl_FirstByShubik-retrato.svg"
+  },
+  {
+    "id": "axl_FirstBySteinAndRapoport",
+    "nombre": "First By Stein And Rapoport",
+    "descripcion": "Nice · Estadística",
+    "cuerpo": "sprites/axl_FirstBySteinAndRapoport.svg",
+    "retrato": "sprites/axl_FirstBySteinAndRapoport-retrato.svg"
+  },
+  {
+    "id": "axl_Grudger",
+    "nombre": "Grudger",
+    "descripcion": "Nice · Rencorosa",
+    "cuerpo": "sprites/axl_Grudger.svg",
+    "retrato": "sprites/axl_Grudger-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByDavis",
+    "nombre": "First By Davis",
+    "descripcion": "Nice · Paciente",
+    "cuerpo": "sprites/axl_FirstByDavis.svg",
+    "retrato": "sprites/axl_FirstByDavis-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByGraaskamp",
+    "nombre": "First By Graaskamp",
+    "descripcion": "Nasty · Sondeadora",
+    "cuerpo": "sprites/axl_FirstByGraaskamp.svg",
+    "retrato": "sprites/axl_FirstByGraaskamp-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByDowning",
+    "nombre": "First By Downing",
+    "descripcion": "Nasty · Pesimista",
+    "cuerpo": "sprites/axl_FirstByDowning.svg",
+    "retrato": "sprites/axl_FirstByDowning-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByFeld",
+    "nombre": "First By Feld",
+    "descripcion": "Nasty · Decreciente",
+    "cuerpo": "sprites/axl_FirstByFeld.svg",
+    "retrato": "sprites/axl_FirstByFeld-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByJoss",
+    "nombre": "First By Joss",
+    "descripcion": "Nasty · Sigilosa 10%",
+    "cuerpo": "sprites/axl_FirstByJoss.svg",
+    "retrato": "sprites/axl_FirstByJoss-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByTullock",
+    "nombre": "First By Tullock",
+    "descripcion": "Nasty · Recortadora",
+    "cuerpo": "sprites/axl_FirstByTullock.svg",
+    "retrato": "sprites/axl_FirstByTullock-retrato.svg"
+  },
+  {
+    "id": "axl_FirstByAnonymous",
+    "nombre": "First By Anonymous",
+    "descripcion": "Nasty · Variable",
+    "cuerpo": "sprites/axl_FirstByAnonymous.svg",
+    "retrato": "sprites/axl_FirstByAnonymous-retrato.svg"
+  },
+  {
+    "id": "axl_Random",
+    "nombre": "Random",
+    "descripcion": "Nasty · Aleatoria",
+    "cuerpo": "sprites/axl_Random.svg",
+    "retrato": "sprites/axl_Random-retrato.svg"
+  },
+  {
+    "id": "axl_Defector",
+    "nombre": "Defector",
+    "descripcion": "Nasty · Siempre D",
+    "cuerpo": "sprites/axl_Defector.svg",
+    "retrato": "sprites/axl_Defector-retrato.svg"
+  },
+  {
+    "id": "axl_Cooperator",
+    "nombre": "Cooperator",
+    "descripcion": "Nice · Siempre C",
+    "cuerpo": "sprites/axl_Cooperator.svg",
+    "retrato": "sprites/axl_Cooperator-retrato.svg"
+  },
+  {
+    "id": "axl_Alternator",
+    "nombre": "Alternator",
+    "descripcion": "Cíclica · C-D-C-D",
+    "cuerpo": "sprites/axl_Alternator.svg",
+    "retrato": "sprites/axl_Alternator-retrato.svg"
+  },
+  {
+    "id": "rival_switch_50",
+    "nombre": "Cambio C → D",
+    "descripcion": "No Estacionaria C→D",
+    "cuerpo": "sprites/rival_switch_50.svg",
+    "retrato": "sprites/rival_switch_50-retrato.svg"
+  },
+  {
+    "id": "rival_3phase",
+    "nombre": "Tres fases C → D → C",
+    "descripcion": "3 Fases C−D−C",
+    "cuerpo": "sprites/rival_3phase.svg",
+    "retrato": "sprites/rival_3phase-retrato.svg"
+  },
+  {
+    "id": "gen1_rulito",
+    "nombre": "Rulito",
+    "descripcion": "Gen 1 · Canario Fiorino",
+    "cuerpo": "sprites/gen1_rulito.svg",
+    "retrato": "sprites/gen1_rulito-retrato.svg"
+  },
+  {
+    "id": "gen2_cloud",
+    "nombre": "Cloud",
+    "descripcion": "Gen 2 · Periquito Blanco/Azul",
+    "cuerpo": "sprites/gen2_cloud.svg",
+    "retrato": "sprites/gen2_cloud-retrato.svg"
+  },
+  {
+    "id": "gen3_gary",
+    "nombre": "Gary",
+    "descripcion": "Gen 3 · Perro Negro/Blanco",
+    "cuerpo": "sprites/gen3_gary.svg",
+    "retrato": "sprites/gen3_gary-retrato.svg"
+  },
+  {
+    "id": "gen4_base",
+    "nombre": "Base CDDC",
+    "descripcion": "Gen 4 · Base CDDC",
+    "cuerpo": "sprites/gen4_base.svg",
+    "retrato": "sprites/gen4_base-retrato.svg"
+  },
+  {
+    "id": "gen5_rl",
+    "nombre": "Mitcha",
+    "descripcion": "Gen 5 · Mitcha (Periquito Verde)",
+    "cuerpo": "sprites/gen5_rl.svg",
+    "retrato": "sprites/gen5_rl-retrato.svg"
+  },
+  {
+    "id": "gen6_jacinto",
+    "nombre": "Jacinto",
+    "descripcion": "Gen 6 · Jacinto (Guacamayo)",
+    "cuerpo": "sprites/gen6_jacinto.svg",
+    "retrato": "sprites/gen6_jacinto-retrato.svg"
+  }
+]
